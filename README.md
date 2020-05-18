@@ -1,7 +1,7 @@
-### Hosted webpage
+### Hosted Webpage
 http://react-table-all.herokuapp.com/
 
-### action to be performed
+### Action To Be Performed
 npm install
 
 
